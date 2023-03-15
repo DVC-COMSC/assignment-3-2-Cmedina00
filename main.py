@@ -2,6 +2,8 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
+    
+  import random 
   
     n1 = random.randint(0,100)
     n2 = random.randint(0,100)
